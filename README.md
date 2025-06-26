@@ -12,10 +12,12 @@ Enterprise-grade data mesh platform built on Kubernetes with support for data co
 See [docs/setup.md](docs/setup.md) for detailed setup instructions.
 
 ## Project Structure
+```
 data-mesh-platform/
-├── infrastructure/        # IaC and Kubernetes configs
-├── services/             # Platform microservices
-├── data-contracts/       # Contract definitions and templates
-├── web-portal/          # Central management UI
-├── scripts/             # Automation tooling
-└── docs/               # Documentation
+├── infrastructure/  # IaC and Kubernetes configs
+├── services/        # Platform microservices
+├── data-contracts/  # Contract definitions and templates
+├── web-portal/      # Central management UI
+├── scripts/         # Automation tooling
+└── docs/            # Documentation
+```
